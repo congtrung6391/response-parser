@@ -1,0 +1,14 @@
+{
+  "name": "response_parser",
+  "version": "1.0.0",
+  "description": "validate http response",
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
